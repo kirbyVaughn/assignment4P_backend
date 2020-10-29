@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\kirby\OneDrive\Desktop\School_work\ISQA_4900\Aissign4\vue_env\myvenv
+set VIRTUAL_ENV=C:\Users\kirby\OneDrive\Desktop\ISQA4900_repos\front_end_SP1\Front_End_vue\assignment4P_backend\vue_env\myvenv
 
 if not defined PROMPT set PROMPT=$P$G
 

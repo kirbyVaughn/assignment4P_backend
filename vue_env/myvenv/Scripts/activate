@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\kirby\OneDrive\Desktop\School_work\ISQA_4900\Aissign4\vue_env\myvenv"
+VIRTUAL_ENV="C:\Users\kirby\OneDrive\Desktop\ISQA4900_repos\front_end_SP1\Front_End_vue\assignment4P_backend\vue_env\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
